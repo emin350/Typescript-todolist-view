@@ -1,0 +1,11 @@
+.article-header{
+    background-color: rgb(44, 16, 202);
+    color: antiquewhite;
+    text-align: center;
+}
+
+.section-content {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+}
